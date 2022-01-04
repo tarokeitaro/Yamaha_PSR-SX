@@ -32,4 +32,4 @@ Jika anda mau berbagi Style ataupun Registration Voice untuk Yamaha PSR seri S a
 Bantu saya untuk mengembangakan repositori ini dengan memberikan donasi :)
 <br>
 OVO/QRIS Scan
-<img src="https://cdn.discordapp.com/attachments/804558841189498930/927805157377466438/OVOKei.jpg" alt="Scan OVO/QRIS" align=right width="200">
+<img src="https://cdn.discordapp.com/attachments/804558841189498930/927805157377466438/OVOKei.jpg" alt="Scan OVO/QRIS" align=right width="200"><br>
