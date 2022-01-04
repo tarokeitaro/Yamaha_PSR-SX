@@ -1,0 +1,736 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\WinRAR]
+"ExportedSettings"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\WinRAR\ArcHistory]
+"0"="C:\\Users\\ARTO MORO\\Dropbox\\style koesplus 1 Yamaha (1).zip"
+"1"="C:\\Users\\ARTO MORO\\Dropbox\\KUMPULAN STYLE YAMAHA PSR SERIES.zip"
+"2"="C:\\Users\\ARTO MORO\\Downloads\\50_S SONG S95O.zip"
+"3"="C:\\Users\\ARTO MORO\\Downloads\\ibanez bass.zip"
+
+[HKEY_CURRENT_USER\Software\WinRAR\DialogEditHistory]
+
+[HKEY_CURRENT_USER\Software\WinRAR\DialogEditHistory\ArcName]
+"0"="NEW 2014 INDONESIA PACK VERSI 2 (2) (1).zip"
+"1"="C:\\Users\\ARTO MORO\\Dropbox\\style koesplus 1 Yamaha (1).zip"
+"2"="VOICE BONANG & BASS SERA WAV.zip"
+"3"="KUMPULAN STYLE YAMAHA PSR SERIES.zip"
+"4"="C:\\Users\\ARTO MORO\\Downloads\\indonesian_s950_750.zip"
+"5"="C:\\Users\\ARTO MORO\\Downloads\\CAMPUR.rar"
+"6"="OMB_10.zip"
+"7"="Downloads.zip"
+"8"="RUN ADMINISTRATION.zip"
+
+[HKEY_CURRENT_USER\Software\WinRAR\DialogEditHistory\ExtrPath]
+"0"="E:\\"
+"1"="C:\\Users\\ARTO MORO\\Desktop"
+"2"="G:\\"
+"3"="D:\\YEP"
+"4"="C:\\Users\\ARTO MORO\\Downloads\\CAMPUR"
+"5"="I:\\"
+"6"="C:\\Users\\ARTO MORO\\Downloads\\YEP-Voice-Manager"
+
+[HKEY_CURRENT_USER\Software\WinRAR\Extraction]
+
+[HKEY_CURRENT_USER\Software\WinRAR\Extraction\Profile]
+"Overwrite"=dword:00000000
+"Update"=dword:00000000
+"Fresh"=dword:00000000
+"UnpToSubfolders"=dword:00000000
+"KeepBroken"=dword:00000000
+"ShowExplorer"=dword:00000000
+"mtime"=dword:00000004
+"ctime"=dword:00000000
+"atime"=dword:00000000
+"PathsRel"=dword:00000001
+"PathsFull"=dword:00000000
+"PathsNone"=dword:00000000
+"PathsAbsDrive"=dword:00000000
+"ClearArc"=dword:00000000
+"ProcessOwners"=dword:00000001
+"SetCompressedAttr"=dword:00000000
+"ExtrDelArc"=dword:00000000
+"CheckAV"=dword:00000001
+"Background"=dword:00000000
+"WaitForOther"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\WinRAR\FileList]
+"ArcSort"=dword:00000020
+
+[HKEY_CURRENT_USER\Software\WinRAR\FileList\ArcColumnWidths]
+"name"=dword:00000078
+"size"=dword:00000050
+"psize"=dword:00000050
+"type"=dword:00000078
+"mtime"=dword:00000064
+"crc"=dword:00000046
+
+[HKEY_CURRENT_USER\Software\WinRAR\FileList\FileColumnWidths]
+"name"=dword:00000078
+"size"=dword:00000050
+"type"=dword:00000078
+"mtime"=dword:00000064
+
+[HKEY_CURRENT_USER\Software\WinRAR\Formats]
+
+[HKEY_CURRENT_USER\Software\WinRAR\Formats\7z.fmt]
+"Info"=hex:88,00,00,00,37,00,7a,00,bc,00,af,00,27,00,1c,00,02,01,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,37,7a,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,01,00,00,00,00,00,00,00,01,00,00,00
+"Ident"="afd7f02013c00"
+
+[HKEY_CURRENT_USER\Software\WinRAR\Formats\ace.fmt]
+"Info"=hex:88,00,00,00,2a,00,2a,00,41,00,43,00,45,00,2a,00,2a,00,02,01,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,61,63,65,7c,63,23,23,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,01,00,00,00,00,00,00,00,00,00,00,00
+"Ident"="ad46f4a014400"
+
+[HKEY_CURRENT_USER\Software\WinRAR\Formats\arj.fmt]
+"Info"=hex:88,00,00,00,60,00,ea,00,02,01,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,61,72,6a,7c,61,23,23,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,01,00,00,00,00,00,00,00,00,00,00,00
+"Ident"="a93b7e8011600"
+
+[HKEY_CURRENT_USER\Software\WinRAR\Formats\bz2.fmt]
+"Info"=hex:88,00,00,00,42,00,5a,00,68,00,02,01,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,62,7a,32,7c,62,7a,7c,74,62,7a,7c,74,62,\
+  7a,32,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,01,00,00,00,00,00,00,00,00,00,00,00
+"Ident"="b62111a015c00"
+
+[HKEY_CURRENT_USER\Software\WinRAR\Formats\cab.fmt]
+"Info"=hex:88,00,00,00,4d,00,53,00,43,00,46,00,02,01,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,63,61,62,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,01,00,00,00,00,00,00,00,00,00,00,00
+"Ident"="aa141ba0fc00"
+
+[HKEY_CURRENT_USER\Software\WinRAR\Formats\gz.fmt]
+"Info"=hex:88,00,00,00,1f,00,8b,00,02,01,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,67,7a,7c,74,67,7a,7c,71,70,72,7c,71,70,\
+  6b,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,01,00,00,00,00,00,00,00,00,00,00,00
+"Ident"="b1a81c4013c00"
+
+[HKEY_CURRENT_USER\Software\WinRAR\Formats\iso.fmt]
+"Info"=hex:88,00,00,00,01,00,43,00,44,00,30,00,30,00,31,00,01,00,00,01,4e,00,\
+  53,00,52,00,30,00,32,00,00,01,4e,00,53,00,52,00,30,00,33,00,02,01,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,69,73,6f,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,02,00,00,00
+"Ident"="b756846014000"
+
+[HKEY_CURRENT_USER\Software\WinRAR\Formats\lzh.fmt]
+"Info"=hex:88,00,00,00,2d,00,6c,00,68,00,01,01,2d,00,02,01,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,6c,7a,68,7c,6c,68,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,01,00,00,00,00,00,00,00,00,00,00,00
+"Ident"="abb24ae014200"
+
+[HKEY_CURRENT_USER\Software\WinRAR\Formats\tar.fmt]
+"Info"=hex:88,00,00,00,02,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,74,61,72,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"Ident"="b0b5500011200"
+
+[HKEY_CURRENT_USER\Software\WinRAR\Formats\uue.fmt]
+"Info"=hex:88,00,00,00,62,00,65,00,67,00,69,00,6e,00,02,01,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,75,75,65,7c,78,78,65,7c,75,75,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"Ident"="b34d6fa0f400"
+
+[HKEY_CURRENT_USER\Software\WinRAR\Formats\z.fmt]
+"Info"=hex:88,00,00,00,1f,00,9d,00,02,01,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,7a,7c,74,61,7a,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"Ident"="b2831ac012400"
+
+[HKEY_CURRENT_USER\Software\WinRAR\General]
+"AppDataCopied"=dword:00000001
+"VerInfo"=hex:00,5b,03,00,cf,7f,1c,3a,8d,9f,d0,01
+"LastFolder"="C:\\Users\\ARTO MORO\\Dropbox"
+
+[HKEY_CURRENT_USER\Software\WinRAR\General\Toolbar]
+
+[HKEY_CURRENT_USER\Software\WinRAR\General\Toolbar\Layout]
+"Band56_0"=hex:38,00,00,00,73,01,00,00,04,02,00,00,00,00,00,00,f0,f0,f0,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,40,05,04,00,00,00,00,00,3b,00,00,00,b4,02,\
+  00,00,00,00,00,00,01,00,00,00
+"Band56_1"=hex:38,00,00,00,73,01,00,00,05,00,00,00,00,00,00,00,f0,f0,f0,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,28,05,03,00,00,00,00,00,18,00,00,00,28,00,\
+  00,00,00,00,00,00,02,00,00,00
+"Band56_2"=hex:38,00,00,00,73,01,00,00,04,00,00,00,00,00,00,00,f0,f0,f0,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,f6,04,04,00,00,00,00,00,18,00,00,00,64,00,\
+  00,00,00,00,00,00,03,00,00,00
+"Band56_3"=hex:38,00,00,00,73,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Software\WinRAR\Interface]
+"ShowPassword"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\WinRAR\Interface\Comment]
+"LeftBorder"=dword:0000015e
+
+[HKEY_CURRENT_USER\Software\WinRAR\Interface\ErrList]
+"ResPlacement"=hex:2c,00,00,00,00,00,00,00,02,00,00,00,00,83,ff,ff,00,83,ff,ff,\
+  ff,ff,ff,ff,ff,ff,ff,ff,2d,00,00,00,2c,00,00,00,11,02,00,00,4e,01,00,00
+
+[HKEY_CURRENT_USER\Software\WinRAR\Interface\MainWin]
+"Placement"=hex:2c,00,00,00,00,00,00,00,01,00,00,00,ff,ff,ff,ff,ff,ff,ff,ff,ff,\
+  ff,ff,ff,ff,ff,ff,ff,64,00,00,00,64,00,00,00,65,04,00,00,72,02,00,00
+
+[HKEY_CURRENT_USER\Software\WinRAR\Interface\Misc]
+"SaveArcFolder"="G:\\"
+
+[HKEY_CURRENT_USER\Software\WinRAR\Interface\Themes]
+"ShellExtBMP"=""
+"ShellExtIcon"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Profiles]
+
+[HKEY_CURRENT_USER\Software\WinRAR\Profiles\0]
+"Name"="Default Profile"
+"Default"=dword:00000001
+"ImmExec"=dword:00000000
+"ExclNames"=""
+"StoreNames"=""
+"UseRAR"=dword:00000001
+"SFXModule"=""
+"SFXIcon"=""
+"SFXLogo"=""
+"SFXElevate"=dword:00000000
+"CmtFile"=""
+"CmtDataWide"=hex:00,00
+"VolumeSize"="0"
+"VolSizeMod"=dword:00000000
+"VolPause"=dword:00000000
+"OldVolNames"=dword:00000000
+"RecVolNumber"=dword:00000000
+"Update"=dword:00000000
+"Fresh"=dword:00000000
+"SyncFiles"=dword:00000000
+"Overwrite"=dword:00000000
+"Move"=dword:00000000
+"ArcRecBin"=dword:00000000
+"ArcWipe"=dword:00000000
+"WipeIfPassword"=dword:00000000
+"Solid"=dword:00000000
+"AV"=dword:00000000
+"Test"=dword:00000000
+"Recovery"=dword:00000000
+"EraseDest"=dword:00000000
+"AddArcOnly"=dword:00000000
+"ClearArc"=dword:00000000
+"Lock"=dword:00000000
+"Method"=dword:00000003
+"DictSizeLZ"=dword:00400000
+"Background"=dword:00000000
+"WaitForOther"=dword:00000000
+"Shutdown"=dword:00000000
+"PasswordWide"=hex:49,4a
+"EncryptHeaders"=dword:00000000
+"OpenShared"=dword:00000000
+"ProcessOwners"=dword:00000000
+"SaveStreams"=dword:00000000
+"GenerateArcName"=dword:00000000
+"VersionControl"=dword:00000000
+"GenerateMask"="yyyymmddhhnnss"
+"FileTimeMode"=dword:00000000
+"FileDays"=dword:00000000
+"FileHours"=dword:00000000
+"FileMinutes"=dword:00000000
+"FileTimeBefore"=dword:88000000
+"FileTimeAfter"=dword:88000000
+"ArcTimeOriginal"=dword:00000000
+"ArcTimeLatest"=dword:00000000
+"mtime"=dword:00000004
+"ctime"=dword:00000000
+"atime"=dword:00000000
+"PathsAbs"=dword:00000000
+"PathsNone"=dword:00000000
+"PathsAbsDrive"=dword:00000000
+"SeparateArc"=dword:00000000
+"EmailArcTo"=""
+"PackDetails"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Software\WinRAR\Profiles\1]
+"Name"="Create e-mail attachment"
+"Default"=dword:00000000
+"ImmExec"=dword:00000000
+"ExclNames"=""
+"StoreNames"=""
+"UseRAR"=dword:00000001
+"SFXModule"=""
+"SFXIcon"=""
+"SFXLogo"=""
+"SFXElevate"=dword:00000000
+"CmtFile"=""
+"CmtDataWide"=hex:00,00
+"VolumeSize"="0"
+"VolSizeMod"=dword:00000000
+"VolPause"=dword:00000000
+"OldVolNames"=dword:00000000
+"RecVolNumber"=dword:00000000
+"Update"=dword:00000000
+"Fresh"=dword:00000000
+"SyncFiles"=dword:00000000
+"Overwrite"=dword:00000000
+"Move"=dword:00000000
+"ArcRecBin"=dword:00000000
+"ArcWipe"=dword:00000000
+"WipeIfPassword"=dword:00000000
+"Solid"=dword:00000001
+"AV"=dword:00000001
+"Test"=dword:00000000
+"Recovery"=dword:00000000
+"EraseDest"=dword:00000000
+"AddArcOnly"=dword:00000000
+"ClearArc"=dword:00000000
+"Lock"=dword:00000000
+"Method"=dword:00000005
+"DictSizeLZ"=dword:00400000
+"Background"=dword:00000000
+"WaitForOther"=dword:00000000
+"Shutdown"=dword:00000000
+"PasswordWide"=hex:49,4a
+"EncryptHeaders"=dword:00000000
+"OpenShared"=dword:00000000
+"ProcessOwners"=dword:00000000
+"SaveStreams"=dword:00000000
+"GenerateArcName"=dword:00000000
+"VersionControl"=dword:00000000
+"GenerateMask"="yyyymmddhhnnss"
+"FileTimeMode"=dword:00000000
+"FileDays"=dword:00000000
+"FileHours"=dword:00000000
+"FileMinutes"=dword:00000000
+"FileTimeBefore"=dword:88000000
+"FileTimeAfter"=dword:88000000
+"ArcTimeOriginal"=dword:00000000
+"ArcTimeLatest"=dword:00000000
+"mtime"=dword:00000004
+"ctime"=dword:00000000
+"atime"=dword:00000000
+"PathsAbs"=dword:00000000
+"PathsNone"=dword:00000000
+"PathsAbsDrive"=dword:00000000
+"SeparateArc"=dword:00000000
+"EmailArcTo"=""
+"PackDetails"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Software\WinRAR\Profiles\2]
+"Name"="Backup selected files"
+"Default"=dword:00000000
+"ImmExec"=dword:00000000
+"ExclNames"=""
+"StoreNames"=""
+"UseRAR"=dword:00000001
+"SFXModule"=""
+"SFXIcon"=""
+"SFXLogo"=""
+"SFXElevate"=dword:00000000
+"CmtFile"=""
+"CmtDataWide"=hex:00,00
+"VolumeSize"="0"
+"VolSizeMod"=dword:00000000
+"VolPause"=dword:00000000
+"OldVolNames"=dword:00000000
+"RecVolNumber"=dword:00000000
+"Update"=dword:00000000
+"Fresh"=dword:00000000
+"SyncFiles"=dword:00000000
+"Overwrite"=dword:00000000
+"Move"=dword:00000000
+"ArcRecBin"=dword:00000000
+"ArcWipe"=dword:00000000
+"WipeIfPassword"=dword:00000000
+"Solid"=dword:00000000
+"AV"=dword:00000000
+"Test"=dword:00000000
+"Recovery"=dword:ffffffff
+"EraseDest"=dword:00000000
+"AddArcOnly"=dword:00000000
+"ClearArc"=dword:00000000
+"Lock"=dword:00000000
+"Method"=dword:00000003
+"DictSizeLZ"=dword:00400000
+"Background"=dword:00000000
+"WaitForOther"=dword:00000000
+"Shutdown"=dword:00000000
+"PasswordWide"=hex:49,4a
+"EncryptHeaders"=dword:00000000
+"OpenShared"=dword:00000001
+"ProcessOwners"=dword:00000000
+"SaveStreams"=dword:00000001
+"GenerateArcName"=dword:00000001
+"VersionControl"=dword:00000000
+"GenerateMask"="yyyymmddhhnnss"
+"FileTimeMode"=dword:00000000
+"FileDays"=dword:00000000
+"FileHours"=dword:00000000
+"FileMinutes"=dword:00000000
+"FileTimeBefore"=dword:88000000
+"FileTimeAfter"=dword:88000000
+"ArcTimeOriginal"=dword:00000000
+"ArcTimeLatest"=dword:00000000
+"mtime"=dword:00000004
+"ctime"=dword:00000000
+"atime"=dword:00000000
+"PathsAbs"=dword:00000000
+"PathsNone"=dword:00000000
+"PathsAbsDrive"=dword:00000000
+"SeparateArc"=dword:00000000
+"EmailArcTo"=""
+"PackDetails"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Software\WinRAR\Profiles\3]
+"Name"="Create 5 MB volumes"
+"Default"=dword:00000000
+"ImmExec"=dword:00000000
+"ExclNames"=""
+"StoreNames"=""
+"UseRAR"=dword:00000001
+"SFXModule"=""
+"SFXIcon"=""
+"SFXLogo"=""
+"SFXElevate"=dword:00000000
+"CmtFile"=""
+"CmtDataWide"=hex:00,00
+"VolumeSize"="5242880"
+"VolSizeMod"=dword:00000000
+"VolPause"=dword:00000000
+"OldVolNames"=dword:00000000
+"RecVolNumber"=dword:00000000
+"Update"=dword:00000000
+"Fresh"=dword:00000000
+"SyncFiles"=dword:00000000
+"Overwrite"=dword:00000000
+"Move"=dword:00000000
+"ArcRecBin"=dword:00000000
+"ArcWipe"=dword:00000000
+"WipeIfPassword"=dword:00000000
+"Solid"=dword:00000001
+"AV"=dword:00000001
+"Test"=dword:00000000
+"Recovery"=dword:ffffffff
+"EraseDest"=dword:00000000
+"AddArcOnly"=dword:00000000
+"ClearArc"=dword:00000000
+"Lock"=dword:00000000
+"Method"=dword:00000005
+"DictSizeLZ"=dword:00400000
+"Background"=dword:00000000
+"WaitForOther"=dword:00000000
+"Shutdown"=dword:00000000
+"PasswordWide"=hex:49,4a
+"EncryptHeaders"=dword:00000000
+"OpenShared"=dword:00000000
+"ProcessOwners"=dword:00000000
+"SaveStreams"=dword:00000000
+"GenerateArcName"=dword:00000000
+"VersionControl"=dword:00000000
+"GenerateMask"="yyyymmddhhnnss"
+"FileTimeMode"=dword:00000000
+"FileDays"=dword:00000000
+"FileHours"=dword:00000000
+"FileMinutes"=dword:00000000
+"FileTimeBefore"=dword:88000000
+"FileTimeAfter"=dword:88000000
+"ArcTimeOriginal"=dword:00000000
+"ArcTimeLatest"=dword:00000000
+"mtime"=dword:00000004
+"ctime"=dword:00000000
+"atime"=dword:00000000
+"PathsAbs"=dword:00000000
+"PathsNone"=dword:00000000
+"PathsAbsDrive"=dword:00000000
+"SeparateArc"=dword:00000000
+"EmailArcTo"=""
+"PackDetails"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Software\WinRAR\Profiles\4]
+"Name"="ZIP archive (low compression)"
+"Default"=dword:00000000
+"ImmExec"=dword:00000000
+"ExclNames"=""
+"StoreNames"=""
+"UseRAR"=dword:00000000
+"SFXModule"=""
+"SFXIcon"=""
+"SFXLogo"=""
+"SFXElevate"=dword:00000000
+"CmtFile"=""
+"CmtDataWide"=hex:00,00
+"VolumeSize"="0"
+"VolSizeMod"=dword:00000000
+"VolPause"=dword:00000000
+"OldVolNames"=dword:00000000
+"RecVolNumber"=dword:00000000
+"Update"=dword:00000000
+"Fresh"=dword:00000000
+"SyncFiles"=dword:00000000
+"Overwrite"=dword:00000000
+"Move"=dword:00000000
+"ArcRecBin"=dword:00000000
+"ArcWipe"=dword:00000000
+"WipeIfPassword"=dword:00000000
+"Solid"=dword:00000000
+"AV"=dword:00000000
+"Test"=dword:00000000
+"Recovery"=dword:00000000
+"EraseDest"=dword:00000000
+"AddArcOnly"=dword:00000000
+"ClearArc"=dword:00000000
+"Lock"=dword:00000000
+"Method"=dword:00000005
+"DictSizeLZ"=dword:00400000
+"Background"=dword:00000000
+"WaitForOther"=dword:00000000
+"Shutdown"=dword:00000000
+"PasswordWide"=hex:49,4a
+"EncryptHeaders"=dword:00000000
+"OpenShared"=dword:00000000
+"ProcessOwners"=dword:00000000
+"SaveStreams"=dword:00000000
+"GenerateArcName"=dword:00000000
+"VersionControl"=dword:00000000
+"GenerateMask"="yyyymmddhhnnss"
+"FileTimeMode"=dword:00000000
+"FileDays"=dword:00000000
+"FileHours"=dword:00000000
+"FileMinutes"=dword:00000000
+"FileTimeBefore"=dword:88000000
+"FileTimeAfter"=dword:88000000
+"ArcTimeOriginal"=dword:00000000
+"ArcTimeLatest"=dword:00000000
+"mtime"=dword:00000004
+"ctime"=dword:00000000
+"atime"=dword:00000000
+"PathsAbs"=dword:00000000
+"PathsNone"=dword:00000000
+"PathsAbsDrive"=dword:00000000
+"SeparateArc"=dword:00000000
+"EmailArcTo"=""
+"PackDetails"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup]
+"ShellExt"=dword:00000001
+"CascadedMenu"=dword:00000000
+"MenuIcons"=dword:00000001
+"CustomExt"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.7z]
+"Set"=dword:00000001
+"Exist"=dword:00000001
+"Type"="euz.7z"
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.ace]
+"Set"=dword:00000001
+"Exist"=dword:00000000
+"Type"=""
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.arj]
+"Set"=dword:00000001
+"Exist"=dword:00000001
+"Type"="euz.arj"
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.bz]
+"Exist"=dword:00000000
+"Type"=""
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.bz2]
+"Set"=dword:00000001
+"Exist"=dword:00000000
+"Type"=""
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.cab]
+"Set"=dword:00000001
+"Exist"=dword:00000001
+"Type"="euz.cab"
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.gz]
+"Set"=dword:00000001
+"Exist"=dword:00000001
+"Type"=""
+"Content"="application/x-gzip"
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.iso]
+"Set"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.jar]
+"Set"=dword:00000001
+"Exist"=dword:00000000
+"Type"=""
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.lha]
+"Exist"=dword:00000000
+"Type"=""
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.lzh]
+"Set"=dword:00000001
+"Exist"=dword:00000001
+"Type"="euz.lzh"
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.rar]
+"Set"=dword:00000001
+"Exist"=dword:00000001
+"Type"="euz.rar"
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.tar]
+"Set"=dword:00000001
+"Exist"=dword:00000001
+"Type"="euz.tar"
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.taz]
+"Exist"=dword:00000000
+"Type"=""
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.tbz]
+"Exist"=dword:00000000
+"Type"=""
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.tbz2]
+"Exist"=dword:00000000
+"Type"=""
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.tgz]
+"Exist"=dword:00000001
+"Type"=""
+"Content"="application/x-compressed"
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.uu]
+"Exist"=dword:00000000
+"Type"=""
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.uue]
+"Set"=dword:00000001
+"Exist"=dword:00000000
+"Type"=""
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.xxe]
+"Exist"=dword:00000000
+"Type"=""
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.z]
+"Set"=dword:00000001
+"Exist"=dword:00000001
+"Type"="euz.z"
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\.zip]
+"Set"=dword:00000001
+"Exist"=dword:00000001
+"Type"="euz.zip"
+"Content"=""
+"ShellNew"=""
+
+[HKEY_CURRENT_USER\Software\WinRAR\Setup\Links]
+"Desktop"=dword:00000000
+"StartMenu"=dword:00000000
+"Programs"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\WinRAR\Viewer]
+"Placement"=hex:2c,00,00,00,00,00,00,00,01,00,00,00,ff,ff,ff,ff,ff,ff,ff,ff,ff,\
+  ff,ff,ff,ff,ff,ff,ff,64,00,00,00,64,00,00,00,65,04,00,00,72,02,00,00
+

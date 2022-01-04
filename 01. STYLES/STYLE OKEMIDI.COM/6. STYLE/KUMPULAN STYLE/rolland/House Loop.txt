@@ -1,0 +1,26 @@
+Cara Menggunakan Style House Loop :
+
+Di salah satu tombol custom style, saya isi 9 loop style dan 1 style untuk pengiring.
+loop digunakan untuk filler pada saat intro ataupun interlude.
+
+agar mudah saya ingat, untuk variasi, rata2 saya bikin 8 bar, sedangkan jumlah bar pada intro dan fill in, bebas, karena untuk intro, tampilan countdown ada di tampilan lcd, sedangkan untuk fill in secara otomatis akan habis jika barnya habis.
+urutan dalam loop style :
+(Tombol auto fiil in dalam posisi aktif)
+VAR Style Pengiring --> VAR 1 Loop Style --> INTRO VAR 1 ---> Tekan VAR 2, maka fillup 1 otomatis berbunyi & akan berganti ke var 2 saat bar fillup1 habis.
+begitu seterusnya sampai var 4 (VAR - INTRO - FILLUP).
+Untuk var 4 :
+VAR 4 ---> INTRO ---> VAR 1 (ketika menekan var 1, maka filldown3 akan berbunyi, di saat filldown3 sedang berjalan, ganti ke loop style lainnya).
+
+Contoh style : dari z!House LOOP 1 ke z!House INDO
+
+
+
+-------------------------------
+ANTONI PASARIBU
+Solfegio Studio
+0813 66 773244
+antonipasaribu@gmail.com
+www.solfegio.wordpress.com
+-------------------------------
+
+
